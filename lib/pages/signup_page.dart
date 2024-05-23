@@ -134,7 +134,7 @@ class SignUpPage extends StatelessWidget {
                           Text(
                             'Name',
                             style: TextStyle(
-                              color: Colors.black,
+                              color: Color(0xFF474747),
                               fontSize: 22.0,
                               fontWeight: FontWeight.normal,
                             ),
@@ -145,8 +145,8 @@ class SignUpPage extends StatelessWidget {
                                     5.0), // Add some padding around the box
                             child: Container(
                               decoration: BoxDecoration(
-                                color: Colors
-                                    .grey[300], // Set the color of the box
+                                color: Color(
+                                    0xFFECECEC), // Set the color of the box
                                 borderRadius: BorderRadius.circular(
                                     5), // Add some border radius
                               ),
@@ -170,7 +170,7 @@ class SignUpPage extends StatelessWidget {
                           Text(
                             'Email Address',
                             style: TextStyle(
-                              color: Colors.black,
+                              color: Color(0xFF474747),
                               fontSize: 22.0,
                               fontWeight: FontWeight.normal,
                             ),
@@ -181,8 +181,8 @@ class SignUpPage extends StatelessWidget {
                                     5.0), // Add some padding around the box
                             child: Container(
                               decoration: BoxDecoration(
-                                color: Colors
-                                    .grey[300], // Set the color of the box
+                                color: Color(
+                                    0xFFECECEC), // Set the color of the box
                                 borderRadius: BorderRadius.circular(
                                     5), // Add some border radius
                               ),
@@ -206,7 +206,7 @@ class SignUpPage extends StatelessWidget {
                           Text(
                             'Password',
                             style: TextStyle(
-                              color: Colors.black,
+                              color: Color(0xFF474747),
                               fontSize: 22.0,
                               fontWeight: FontWeight.normal,
                             ),
@@ -217,8 +217,8 @@ class SignUpPage extends StatelessWidget {
                                     5.0), // Add some padding around the box
                             child: Container(
                               decoration: BoxDecoration(
-                                color: Colors
-                                    .grey[300], // Set the color of the box
+                                color: Color(
+                                    0xFFECECEC), // Set the color of the box
                                 borderRadius: BorderRadius.circular(
                                     5), // Add some border radius
                               ),
@@ -242,7 +242,7 @@ class SignUpPage extends StatelessWidget {
                           Text(
                             'Phone Number',
                             style: TextStyle(
-                              color: Colors.black,
+                              color: Color(0xFF474747),
                               fontSize: 22.0,
                               fontWeight: FontWeight.normal,
                             ),
@@ -253,8 +253,8 @@ class SignUpPage extends StatelessWidget {
                                     5.0), // Add some padding around the box
                             child: Container(
                               decoration: BoxDecoration(
-                                color: Colors
-                                    .grey[300], // Set the color of the box
+                                color: Color(
+                                    0xFFECECEC), // Set the color of the box
                                 borderRadius: BorderRadius.circular(
                                     5), // Add some border radius
                               ),

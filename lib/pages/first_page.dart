@@ -1,4 +1,6 @@
 import 'package:flutter/material.dart';
+import 'package:splitwise/pages/signup_page.dart';
+import 'package:splitwise/pages/login_page.dart';
 
 class FirstPage extends StatelessWidget {
   @override
@@ -76,7 +78,7 @@ class FirstPage extends StatelessWidget {
                         ),
                       ),
                       onPressed: () {
-                        // Navigate to Login Page
+                        LoginPage();
                       },
                     ),
                   ),
@@ -104,7 +106,7 @@ class FirstPage extends StatelessWidget {
                         ),
                       ),
                       onPressed: () {
-                        // Navigate to Login Page
+                        SignUpPage();
                       },
                     ),
                   ),
