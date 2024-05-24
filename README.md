@@ -1,4 +1,4 @@
-# Splitwise UI Redesign Project
+# Splitwise UI Design Project
 
 ## Overview
 As a practice project, I developed a simple yet functional UI for the Splitwise application using Flutter. This project was inspired by and follows the design outlined in the [Splitwise Redesign on Figma](https://www.figma.com/design/zzwHiavCc5yKRY3pfKKjtP/Splitwise-Redesign-(Community)?node-id=0-1&t=8rZeDl8ahW5wP0OF-0).
