@@ -15,7 +15,7 @@ As a practice project, I developed a simple yet functional UI for the Splitwise 
 
 ## Technologies Used
 - **Flutter:** For building the UI components.
-- **Figma:** For design reference.[Link](#https://www.figma.com/design/zzwHiavCc5yKRY3pfKKjtP/Splitwise-Redesign-(Community)?node-id=0-1&t=8rZeDl8ahW5wP0OF-0)
+- **Figma:** For design reference.
 
 ## Learning Outcomes
 - Improved understanding of Flutter and its widget tree.
