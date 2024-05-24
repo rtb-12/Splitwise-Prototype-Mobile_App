@@ -78,7 +78,11 @@ class FirstPage extends StatelessWidget {
                         ),
                       ),
                       onPressed: () {
-                        LoginPage();
+                        // Navigate to the LoginPage
+                        Navigator.push(
+                          context,
+                          MaterialPageRoute(builder: (context) => LoginPage()),
+                        );
                       },
                     ),
                   ),
@@ -106,7 +110,10 @@ class FirstPage extends StatelessWidget {
                         ),
                       ),
                       onPressed: () {
-                        SignUpPage();
+                        Navigator.push(
+                          context,
+                          MaterialPageRoute(builder: (context) => SignUpPage()),
+                        );
                       },
                     ),
                   ),

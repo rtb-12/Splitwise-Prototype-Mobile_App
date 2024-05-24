@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:splitwise/pages/login_page.dart';
 
 class SignUpPage extends StatelessWidget {
   @override
@@ -81,8 +82,11 @@ class SignUpPage extends StatelessWidget {
                       SizedBox(width: 20),
                       GestureDetector(
                         onTap: () {
-                          print(
-                              'LOGIN tapped!'); // Replace this with your onTap function
+                          Navigator.push(
+                            context,
+                            MaterialPageRoute(
+                                builder: (context) => LoginPage()),
+                          ); // Replace this with your onTap function
                         },
                         child: Text(
                           'LOGIN',
